@@ -8,9 +8,13 @@ Ejecucion de contenedores:
 docker-compose up -d
 ```
  Abrir navegador: [http://localhost:8001](http://localhost:8001)
+ 
  Abrir phpmyadmin: [http://localhost:8000](http://localhost:8000)
+ 
   Usuario phpmyadmin: user
+  
   Clave phpmyadmin: test
+  
 
 
 Ingresar al contenedor mysql:
