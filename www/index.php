@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="container">
-    <?php echo "<h1>Hi! I'm happy</h1>"; ?>
+    <?php echo "<h1>Hola Docker 101</h1>"; ?>
 
     <?php
 
