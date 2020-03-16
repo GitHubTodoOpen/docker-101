@@ -1,4 +1,4 @@
-# Docker-lamp
+# Docker-Mysql-PHP
 
 Docker Apache, MySql 8.0, PhpMyAdmin y Php
 Verificar que los puertos 8001, 8000 y 3306 esten libres en el host local, para la correcta ejeucucion de docker
